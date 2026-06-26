@@ -237,6 +237,10 @@ Future planned models:
 - YAML
 
 ---
+Example output plot:
+![./assets/Logistic_Regression_Test.png](./assets/Logistic_Regression_Test.png)
+
+---
 
 # 📂 Folder Structure
 
