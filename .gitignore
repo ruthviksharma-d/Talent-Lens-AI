@@ -1,0 +1,7 @@
+.venv/
+
+.DS_Store
+
+data/test/
+data/test_data/
+data/processed/converted/
